@@ -38,7 +38,7 @@ Mostly I work as a freelancer,with Open Source ,E-commerce and another challenge
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ujjwal3009&show_icons=true&hide_border=true" />
+  <img align="left" alt="Ujjwal's Github Stats" src="https://github-readme-stats.ujjwal3009.vercel.app/api?username=Ujjwal3009&show_icons=true&hide_border=true" />
 
 </details>
 
