@@ -1,50 +1,33 @@
-<!--START_SECTION:activity-->
-<!-- [![Ujjwal Kumar header](https://raw.githubusercontent.com/rishiraj-acharya/rishiraj-acharya/master/cover.png)](https://Ujjwal3009.github.io/) -->
+<h1 align="center">Hi 👋, I'm Ujjwal Kumar</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal3009" alt="ujjwal3009" /> </p>
+
+- 🔭 I’m currently working on [Java Shopping Mall](https://github.com/Ujjwal3009/ShoppingMall)
+
+- 🌱 I’m currently learning **Android App Developing**
+
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **ujjwal3009.iimt@gmail.com**
+
+- ⚡ Fun fact **Chai over anything**
+
+
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwal3009&layout=compact&hide=html" alt="ujjwal3009" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwal3009&show_icons=true" alt="ujjwal3009" /></p>
+
 <p align="center">
-<br/><a href="#contributing"><img alt="Contributions Welcome" src="https://img.shields.io/badge/contributions-welcome-brightgreen?style=for-the-badge&labelColor=black&logo=github"></a>  <a href="https://www.linkedin.com/ujjwal-kumar3009"><img alt="Linkedin follow Follow" src="https://img.shields.io/badge/connect/ujjwal-kumar3009?style=for-the-badge&color=09f&labelColor=black&logo=linkedin&label=@UJJWALKUMAR"></a><br/><br/>I,m a  passionate Web Developer . For the past 6 months I have worked on varios UI/UX desgin, Front-end and Back-end development.
-<br/>
-Mostly I work as a freelancer,with Open Source ,E-commerce and another challenges.I enjoy challenging tasks and look forward to interesting and innovative projects.
-
-
+<a href="https://linkedin.com/in/ujjwal-kumar3009" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ujjwal-kumar3009" height="30" width="30" /></a>
+<a href="https://www.codechef.com/ujjwal234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ujjwal234" height="30" width="30" /></a>
+<a href="https://www.hackerrank.com/ujjwal3009_iimt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ujjwal3009_iimt" height="30" width="30" /></a>
 </p>
 
 
-- 🌱 I’m currently learning App Developing
-- 💬 Ask me about Web developing
-- 📫 How to reach me: ujjwal3009@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I,m a tech lover
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-### Connect with me:
-
-[<img align="left" alt="Ujjwal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ujjwal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<br />
-<br />
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Ujjwal's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Ujjwal3009&show_icons=true&hide_border=true" />
-
-</details>
-
-[instagram]: https://instagram.com/ujjwal_3009/
-[linkedin]: https://www.linkedin.com/in/ujjwal-kumar3009/
+  
