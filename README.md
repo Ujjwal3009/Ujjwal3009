@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwal3009" alt="ujjwal3009" /> </p>
 
-- 🔭 I’m currently working on [Java Shopping Mall](https://github.com/Ujjwal3009/ShoppingMall)
-
-- 🌱 I’m currently learning **Android App Developing**
-
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **ujjwal3009.iimt@gmail.com**
